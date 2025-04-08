@@ -7,3 +7,5 @@ class Apiresponce{
 
     }
 }
+
+export { ApiResponse }
